@@ -2,6 +2,8 @@
 
 ## How to install watermelonos-core-repo
 
+Add this to the bottom of your /etc/pacman.conf
+
 ```
 [watermelonos-core-repo]
 SigLevel = Optional DatabaseOptional
