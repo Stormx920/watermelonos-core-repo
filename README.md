@@ -7,5 +7,5 @@ Add this to the bottom of your /etc/pacman.conf
 ```
 [watermelonos-core-repo]
 SigLevel = Optional DatabaseOptional
-Server = https://github.com/TyroneWatermelon420/$repo/blob/main/$arch
+Server = https://github.com/TyroneWatermelon420/$repo/raw/main/$arch
 ```
